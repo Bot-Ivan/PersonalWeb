@@ -1,0 +1,27 @@
+#container {
+  text-align: center;
+  /* width: 100%;
+  margin: auto; */
+}
+
+#profile{
+border-radius: 50%;
+box-shadow: inset 10px black;
+}
+
+.linkedIn{
+  background-color: gray;
+}
+#button1{
+margin: auto;
+ /* height: auto;
+ width: 50%; */
+ background-color: aliceblue;
+ /* margin-top: 10;
+ padding: 10; */
+}
+
+#pic {
+display: flex;
+justify-content: center;
+}
